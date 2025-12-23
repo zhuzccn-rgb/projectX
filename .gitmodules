@@ -1,3 +1,6 @@
 [submodule "zonghesuzhipingjia"]
 	path = zonghesuzhipingjia
 	url = https://github.com/zhuzccn-rgb/zonghesuzhipingjia.git
+[submodule "one mind"]
+	path = one mind
+	url = git@github.com:zhuzccn-rgb/one-mind.git
