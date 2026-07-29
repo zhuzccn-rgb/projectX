@@ -4,3 +4,6 @@
 [submodule "one mind"]
 	path = one mind
 	url = git@github.com:zhuzccn-rgb/one-mind.git
+[submodule "pdf2epub"]
+	path = pdf2epub
+	url = ./pdf2epub
